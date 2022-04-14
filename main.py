@@ -20,7 +20,7 @@ while p1w < 3 and p2w < 3:   #check earn 3 point
     print(f"p1 wins: {p1w} and p2 wins : {p2w}") #show points
     p1=input("p1 move : ")
     if gm == "p": #check gamemode
-        p2=input("harekate player 2:")
+        p2=input("player 2 move :")
     #check who is winner :
     elif gm == "e":
         p2=random.randint(1, 3)
