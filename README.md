@@ -31,8 +31,16 @@ i hope you like it
 
 goodby!
 
+Update 2 :
+-----------------
+
+Add Colored text
+
+(red,blue,yellow,white,green,porple and gray)
+
 
 M.Sython :)
+
 سلام بچه ها!
 
 من یه بازی متن مهور با پایتون ساختم:
@@ -61,15 +69,12 @@ M.Sython :)
 
 فعلا!
 
-Update 1 :
------------------
-
-Add Colored text
 
 آپدیت 1 :
 --------
 
 اضافه شدن متن های رنگی
+(قرمز،آبی،سبز،زرد،بنفش،خاکستری و سفید
 
 
 M.Sython :)
